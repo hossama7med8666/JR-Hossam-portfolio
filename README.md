@@ -1,7 +1,9 @@
 # JR-Hossam-portfolio
 Example data scince portfolio 
 # Project 1: Laptop-Price-Predictor-LPP-
-*Hi
-*Create a UI that can predict the price of laptop 
-*Data from kaggle
-*Build a clint facing API 
+```
+Hallo, This was my first project in data scienec 
+Created a UI that can predict price of the laptop 
+data from ** kaggle **
+
+```
