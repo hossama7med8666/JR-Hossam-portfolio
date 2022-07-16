@@ -4,6 +4,6 @@ Example data scince portfolio
 ```
 Hallo, This was my first project in data scienec 
 Created a UI that can predict price of the laptop 
-data from ** kaggle **
+data from  kaggle
 
 ```
